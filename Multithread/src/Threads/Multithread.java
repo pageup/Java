@@ -1,7 +1,7 @@
 package Threads;
 
 /**
- * Created by pageup on 11/27/2015.
+ * Created by pageup on 16/05/2017.
  */
 
 public class Multithread implements Runnable {
